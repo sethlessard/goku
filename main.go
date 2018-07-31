@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/sethlessard/go-roku-api/roku"
+	"github.com/sethlessard/goku/roku"
 )
 
 func main() {
